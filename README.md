@@ -1,7 +1,9 @@
 # product-scraper
 
-git clone https://github.com/ABCD123/product-scraper.git
+git clone https://github.com/USERNAME/product-scraper.git
 cd product-scraper
-USERNAME = "ABCD123"
-PASSWORD = "abcd"
-products.json
+
+pip install -r requirements.txt
+USERNAME = "your_username"
+PASSWORD = "your_password"
+python scrape_products.py
