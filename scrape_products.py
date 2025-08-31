@@ -5,8 +5,8 @@ from playwright.sync_api import sync_playwright
 
 OUTPUT_FILE = "products.json"
 STORAGE_FILE = "storage_state.json"
-LOGIN_URL = "https://idenhq.com/login"          # update if different
-APP_URL   = "https://idenhq.com/challenge"      # update if different
+LOGIN_URL = "https://hiring.idenhq.com/"         
+APP_URL   = "https://hiring.idenhq.com/challenge"      
 
 USERNAME = "your_username"   # <-- replace with your username
 PASSWORD = "your_password"   # <-- replace with your password
