@@ -8,7 +8,7 @@ STORAGE_FILE = "storage_state.json"
 LOGIN_URL = "https://hiring.idenhq.com/"         
 APP_URL   = "https://hiring.idenhq.com/challenge"      
 
-USERNAME = "ABCD123"   
+USERNAME = "ABCD123@mail.com"   
 PASSWORD = "abcd123"   
 
 def login_and_save(page):
